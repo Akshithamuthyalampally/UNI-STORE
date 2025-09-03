@@ -60,6 +60,5 @@ UNISTORE/
 
 ##  License
 
-feel free to use and modify.
+Feel free to use and modify.
 
-```
